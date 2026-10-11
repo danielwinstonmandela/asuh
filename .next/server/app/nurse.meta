@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/nurse/layout,_N_T_/nurse/page,_N_T_/nurse"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/707fe2b41ec4ee6e1210ebb3147cc4e4d0ca52fb885b0cc874c74c75a6fcad86/$/nurse",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/nurse/page"
+    },
+    "isFallback": false
+  }
+}

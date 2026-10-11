@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/check-in/page": "/check-in",
+  "/companions/page": "/companions",
+  "/family/alerts/[id]/page": "/family/alerts/[id]",
+  "/family/page": "/family",
+  "/community/page": "/community",
+  "/health/page": "/health",
+  "/family/bookings/[id]/page": "/family/bookings/[id]",
+  "/page": "/",
+  "/learn/page": "/learn",
+  "/family/companions/page": "/family/companions",
+  "/nurse/page": "/nurse",
+  "/premium/page": "/premium",
+  "/settings/page": "/settings"
+}

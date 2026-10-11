@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">ASUH warm hands</title><desc id="desc">Two hands gently holding a heart.</desc>
+  <rect width="256" height="256" rx="64" fill="#F4EEE6"/>
+  <path d="M55 145c20 4 32 16 45 31 12 14 29 19 46 13l23-8c15-5 21-21 13-34-7-12-22-16-35-10l-18 8-28-32c-11-13-31-14-43-2-11 11-10 28-3 34Z" fill="#CF6A58"/>
+  <path d="M201 145c-20 4-32 16-45 31-12 14-29 19-46 13l-23-8c-15-5-21-21-13-34 7-12 22-16 35-10l18 8 28-32c11-13 31-14 43-2 11 11 10 28 3 34Z" fill="#176C5D" opacity=".93"/>
+  <path d="M128 126 106 106c-10-9-4-25 9-25 6 0 11 4 13 8 3-4 8-8 14-8 13 0 19 16 9 25l-23 20Z" fill="#fff"/>
+</svg>

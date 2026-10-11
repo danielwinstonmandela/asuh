@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">ASUH home heart</title><desc id="desc">A safe home containing a heart.</desc>
+  <rect width="256" height="256" rx="64" fill="#142B35"/>
+  <path d="m48 121 80-67 80 67v75c0 8-6 14-14 14H62c-8 0-14-6-14-14v-75Z" fill="#DFF2EA"/>
+  <path d="M128 169 92 136c-15-14-5-39 15-39 9 0 17 5 21 12 4-7 12-12 21-12 20 0 30 25 15 39l-36 33Z" fill="#176C5D"/>
+  <path d="M62 121 128 66l66 55" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

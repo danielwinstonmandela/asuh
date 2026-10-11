@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/check-in/page": "app/check-in/page.js",
+  "/companions/page": "app/companions/page.js",
+  "/family/alerts/[id]/page": "app/family/alerts/[id]/page.js",
+  "/family/page": "app/family/page.js",
+  "/community/page": "app/community/page.js",
+  "/health/page": "app/health/page.js",
+  "/family/bookings/[id]/page": "app/family/bookings/[id]/page.js",
+  "/page": "app/page.js",
+  "/learn/page": "app/learn/page.js",
+  "/family/companions/page": "app/family/companions/page.js",
+  "/nurse/page": "app/nurse/page.js",
+  "/premium/page": "app/premium/page.js",
+  "/settings/page": "app/settings/page.js"
+}

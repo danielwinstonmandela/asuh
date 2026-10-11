@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">ASUH together</title><desc id="desc">Three people forming a connected circle.</desc>
+  <rect width="256" height="256" rx="64" fill="#E2F2EB"/>
+  <circle cx="128" cy="72" r="23" fill="#176C5D"/>
+  <circle cx="69" cy="155" r="21" fill="#CF6A58"/>
+  <circle cx="187" cy="155" r="21" fill="#142B35"/>
+  <path d="M128 99c-30 0-54 23-54 52v26h108v-26c0-29-24-52-54-52Z" fill="#176C5D"/>
+  <path d="M93 183c0-28-18-48-43-48-18 0-33 13-38 30m194 0c-5-17-20-30-38-30-25 0-43 20-43 48" fill="none" stroke="#CF6A58" stroke-width="16" stroke-linecap="round"/>
+  <path d="M128 145 115 133c-6-6-2-16 6-16 4 0 6 2 7 5 2-3 4-5 8-5 8 0 12 10 6 16l-14 12Z" fill="#fff"/>
+</svg>
